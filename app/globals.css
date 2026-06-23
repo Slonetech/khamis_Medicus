@@ -1,0 +1,54 @@
+@import "tailwindcss";
+
+@theme inline {
+  /* Brand colours */
+  --color-teal:       #0E7490;
+  --color-teal-dark:  #0c6479;
+  --color-navy:       #0D2D4E;
+  --color-navy-dark:  #0a2340;
+  --color-cream:      #FFFBF5;
+  --color-emergency:  #DC2626;
+  --color-whatsapp:   #25D366;
+  --color-white:      #FFFFFF;
+  --color-gray-light: #F3F4F6;
+  --color-gray-text:  #6B7280;
+
+  /* Typography */
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+
+  /* Radius */
+  --radius-card: 1rem; /* rounded-2xl */
+}
+
+:root {
+  --background: #FFFBF5;
+  --foreground: #0D2D4E;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* WhatsApp pulse animation */
+@keyframes wa-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(37, 211, 102, 0.5); }
+  50%       { box-shadow: 0 0 0 12px rgba(37, 211, 102, 0); }
+}
+
+.wa-pulse {
+  animation: wa-pulse 1.5s ease-in-out infinite;
+}
+
+/* Smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Focus visible styles */
+*:focus-visible {
+  outline: 2px solid #0E7490;
+  outline-offset: 2px;
+}
