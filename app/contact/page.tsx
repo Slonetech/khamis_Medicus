@@ -4,7 +4,7 @@ import ContactPageClient from "./ContactPageClient";
 export const metadata: Metadata = {
   title: "Contact Us — Kham Medicus Care",
   description:
-    "Book an appointment or contact Kham Medicus Care. Call 0704 705 709, WhatsApp 0704 706 709, or fill in our appointment form. Komarock Plaza, Spine Road, Nairobi North.",
+    "Book an appointment or contact Kham Medicus Care. Call 0114 461 958, WhatsApp 0114 461 958, or fill in our appointment form. Komarock Plaza, Spine Road, Nairobi North.",
 };
 
 export default function ContactPage() {

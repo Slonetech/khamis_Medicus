@@ -100,8 +100,8 @@ export default function PrivacyPage() {
             </li>
             <li>
               Phone:{" "}
-              <a href="tel:0704705709" className="text-[#0E7490] hover:underline">
-                0704 705 709
+              <a href="tel:+254114461958" className="text-[#0E7490] hover:underline">
+                0114 461 958
               </a>
             </li>
             <li>Address: Komarock Plaza, Spine Road, Nairobi North, Kenya</li>

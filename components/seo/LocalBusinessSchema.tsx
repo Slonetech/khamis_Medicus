@@ -11,7 +11,7 @@ export default function LocalBusinessSchema() {
       addressLocality: "Nairobi North",
       addressCountry: "KE",
     },
-    telephone: "+254704705709",
+    telephone: "+254114461958",
     openingHours: "Mo-Su 00:00-24:00",
     url: "https://khamismedicuscare.co.ke",
     sameAs: [],

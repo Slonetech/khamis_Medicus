@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-const WA_URL = "https://wa.me/254704705709?text=Hello%20Kham%20Medicus%2C%20I%20would%20like%20to%20enquire%20about%20your%20services";
+const WA_URL = "https://wa.me/254114461958?text=Hello%20Kham%20Medicus%2C%20I%20would%20like%20to%20enquire%20about%20your%20services";
 
 export default function MobileBottomBar() {
   return (

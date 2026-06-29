@@ -15,7 +15,7 @@ const MAPS_EMBED =
 const MAPS_DIRECTIONS =
   "https://maps.google.com/?q=Komarock+Plaza+Spine+Road+Nairobi";
 const WA_URL =
-  "https://wa.me/254704706709?text=Hello%20Kham%20Medicus%2C%20I%20would%20like%20to%20enquire%20about%20your%20services";
+  "https://wa.me/254114461958?text=Hello%20Kham%20Medicus%2C%20I%20would%20like%20to%20enquire%20about%20your%20services";
 
 export default function HomePage() {
   return (
@@ -140,10 +140,10 @@ export default function HomePage() {
             or call us directly.
           </p>
           <a
-            href="tel:0704705709"
+            href="tel:+254114461958"
             id="emergency-call-btn"
             className="mt-8 inline-flex items-center gap-3 bg-white text-[#DC2626] font-bold rounded-full px-8 py-4 text-xl hover:bg-red-50 transition-colors shadow-lg"
-            aria-label="Call 0704 705 709 for emergencies"
+            aria-label="Call 0114 461 958 for emergencies"
           >
             <svg
               viewBox="0 0 24 24"
@@ -152,7 +152,7 @@ export default function HomePage() {
             >
               <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.69 12 19.79 19.79 0 0 1 1.61 3.4 2 2 0 0 1 3.6 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L7.91 9.91a16 16 0 0 0 6 6l.91-.91a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z" />
             </svg>
-            0704 705 709
+            0114 461 958
           </a>
         </div>
       </section>
@@ -266,10 +266,10 @@ export default function HomePage() {
                 Komarock Plaza, Spine Road, Nairobi North
               </p>
               <a
-                href="tel:0704705709"
+                href="tel:+254114461958"
                 className="text-[#0E7490] text-sm font-medium hover:underline"
               >
-                0704 705 709
+                0114 461 958
               </a>
             </div>
             <a

@@ -13,7 +13,7 @@ export const FAQS: FAQ[] = [
     category: "Appointments",
     question: "How do I book an appointment?",
     answer:
-      "Fill in the form on our Contact page, send us a WhatsApp on 0704 706 709, or call 0704 705 709. We confirm within 2 hours.",
+      "Fill in the form on our Contact page, send us a WhatsApp on 0114 461 958, or call 0114 461 958. We confirm within 2 hours.",
     cta: { label: "Book an appointment →", href: "/contact#appointment-form" },
   },
   {
@@ -38,8 +38,8 @@ export const FAQS: FAQ[] = [
     category: "Pharmacy",
     question: "Is the pharmacy really open 24 hours?",
     answer:
-      "Yes. The Kham Medicus pharmacy operates 24 hours a day, 7 days a week. Call 0704 705 709 to confirm stock availability for specific medications.",
-    cta: { label: "Chat on WhatsApp →", href: "https://wa.me/254704706709" },
+      "Yes. The Kham Medicus pharmacy operates 24 hours a day, 7 days a week. Call 0114 461 958 to confirm stock availability for specific medications.",
+    cta: { label: "Chat on WhatsApp →", href: "https://wa.me/254114461958" },
   },
   {
     id: "prescription-meds",
@@ -47,7 +47,7 @@ export const FAQS: FAQ[] = [
     question: "Do you stock prescription medications?",
     answer:
       "Yes. Bring your prescription or enquire via WhatsApp before visiting so we can confirm availability for your specific medication.",
-    cta: { label: "Chat on WhatsApp →", href: "https://wa.me/254704706709" },
+    cta: { label: "Chat on WhatsApp →", href: "https://wa.me/254114461958" },
   },
   {
     id: "repeat-prescription",
@@ -55,7 +55,7 @@ export const FAQS: FAQ[] = [
     question: "Can I get a repeat prescription filled here?",
     answer:
       "Yes. Speak to Moses Wafula, our pharmacist, for repeat prescription guidance. Bring your previous prescription or contact us via WhatsApp.",
-    cta: { label: "Chat on WhatsApp →", href: "https://wa.me/254704706709" },
+    cta: { label: "Chat on WhatsApp →", href: "https://wa.me/254114461958" },
   },
   // Insurance & Payments
   {
@@ -100,8 +100,8 @@ export const FAQS: FAQ[] = [
     category: "Services",
     question: "Do you handle emergencies?",
     answer:
-      "Yes. Emergency services are available 24 hours a day. Come directly to the clinic or call 0704 705 709 immediately.",
-    cta: { label: "Call 0704 705 709 →", href: "tel:0704705709" },
+      "Yes. Emergency services are available 24 hours a day. Come directly to the clinic or call 0114 461 958 immediately.",
+    cta: { label: "Call 0114 461 958 →", href: "tel:+254114461958" },
   },
   {
     id: "antenatal",

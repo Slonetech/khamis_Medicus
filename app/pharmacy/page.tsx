@@ -8,7 +8,7 @@ export const metadata: Metadata = {
 };
 
 const WA_PHARMACY =
-  "https://wa.me/254704706709?text=Hello%2C%20I%20would%20like%20to%20enquire%20about%20a%20prescription%20at%20Kham%20Medicus%20Pharmacy.";
+  "https://wa.me/254114461958?text=Hello%2C%20I%20would%20like%20to%20enquire%20about%20a%20prescription%20at%20Kham%20Medicus%20Pharmacy.";
 
 const CATEGORIES = [
   {
@@ -68,8 +68,8 @@ export default function PharmacyPage() {
               className="inline-flex items-center gap-2 bg-[#25D366] hover:opacity-90 text-white font-semibold rounded-full px-7 py-3 transition-opacity shadow-lg">
               WhatsApp for a Prescription Enquiry
             </a>
-            <a href="tel:0704705709" className="inline-flex items-center gap-2 border-2 border-white text-white hover:bg-white/10 font-semibold rounded-full px-7 py-3 transition-colors">
-              Call 0704 705 709
+            <a href="tel:+254114461958" className="inline-flex items-center gap-2 border-2 border-white text-white hover:bg-white/10 font-semibold rounded-full px-7 py-3 transition-colors">
+              Call 0114 461 958
             </a>
           </div>
         </div>
@@ -82,7 +82,7 @@ export default function PharmacyPage() {
             <div className="flex-1 text-center md:text-left">
               <h2 id="hours-heading" className="text-2xl font-bold text-[#0D2D4E] mb-2">Operating Hours</h2>
               <p className="text-gray-600 text-sm mb-1">Pharmacy: <strong className="text-[#0D2D4E]">24 hours, 7 days a week</strong></p>
-              <p className="text-xs text-gray-400 mt-2">Subject to change. Call <a href="tel:0704705709" className="text-[#0E7490] hover:underline">0704 705 709</a> to confirm.</p>
+              <p className="text-xs text-gray-400 mt-2">Subject to change. Call <a href="tel:+254114461958" className="text-[#0E7490] hover:underline">0114 461 958</a> to confirm.</p>
             </div>
             <div className="flex items-center gap-3 bg-[#0E7490]/10 rounded-xl px-6 py-4">
               <span className="relative flex h-3 w-3">
@@ -127,11 +127,11 @@ export default function PharmacyPage() {
           <div className="flex flex-col sm:flex-row justify-center gap-6 text-sm text-gray-600">
             <div>
               <span className="block text-xs text-gray-400 uppercase tracking-wide mb-1">Phone</span>
-              <a href="tel:0704705709" className="font-semibold text-[#0E7490] hover:underline">0704 705 709</a>
+              <a href="tel:+254114461958" className="font-semibold text-[#0E7490] hover:underline">0114 461 958</a>
             </div>
             <div>
               <span className="block text-xs text-gray-400 uppercase tracking-wide mb-1">WhatsApp</span>
-              <a href="https://wa.me/254704706709" target="_blank" rel="noopener noreferrer" className="font-semibold text-[#25D366] hover:underline">0704 706 709</a>
+              <a href="https://wa.me/254114461958" target="_blank" rel="noopener noreferrer" className="font-semibold text-[#25D366] hover:underline">0114 461 958</a>
             </div>
             <div>
               <span className="block text-xs text-gray-400 uppercase tracking-wide mb-1">Email</span>

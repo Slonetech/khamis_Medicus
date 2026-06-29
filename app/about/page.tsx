@@ -193,8 +193,8 @@ export default function AboutPage() {
               </div>
               <div>
                 <p className="text-sm font-semibold text-[#0E7490] uppercase tracking-wide mb-1">Phone</p>
-                <a href="tel:0704705709" className="text-[#0E7490] font-medium hover:underline">
-                  0704 705 709
+                <a href="tel:+254114461958" className="text-[#0E7490] font-medium hover:underline">
+                  0114 461 958
                 </a>
               </div>
               <Link

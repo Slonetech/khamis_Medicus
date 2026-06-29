@@ -51,12 +51,12 @@ export default function ContactPageClient() {
             {/* Phone */}
             <div>
               <p className="text-xs font-semibold text-[#0E7490] uppercase tracking-wide mb-1">Primary Phone</p>
-              <a href="tel:0704705709" className="text-2xl font-bold text-[#0D2D4E] hover:text-[#0E7490] transition-colors">0704 705 709</a>
+              <a href="tel:+254114461958" className="text-2xl font-bold text-[#0D2D4E] hover:text-[#0E7490] transition-colors">0114 461 958</a>
             </div>
             {/* WhatsApp */}
             <div>
               <p className="text-xs font-semibold text-[#0E7490] uppercase tracking-wide mb-1">WhatsApp</p>
-              <a href="https://wa.me/254704706709" target="_blank" rel="noopener noreferrer" className="text-xl font-bold text-[#25D366] hover:underline">0704 706 709</a>
+              <a href="https://wa.me/254114461958" target="_blank" rel="noopener noreferrer" className="text-xl font-bold text-[#25D366] hover:underline">0114 461 958</a>
             </div>
             {/* Email */}
             <div>
@@ -164,7 +164,7 @@ export default function ContactPageClient() {
             {state === "error" && (
               <p className="text-sm text-[#DC2626] bg-red-50 rounded-lg px-4 py-3">
                 Something went wrong. Please call us on{" "}
-                <a href="tel:0704705709" className="font-semibold underline">0704 705 709</a>.
+                <a href="tel:+254114461958" className="font-semibold underline">0114 461 958</a>.
               </p>
             )}
 

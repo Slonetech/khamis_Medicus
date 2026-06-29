@@ -87,19 +87,19 @@ export default function Footer() {
           <ul className="flex flex-col gap-3 text-sm text-gray-400">
             <li>
               <span className="block text-xs text-gray-500 uppercase tracking-wide mb-0.5">Phone</span>
-              <a href="tel:0704705709" className="hover:text-white transition-colors font-medium">
-                0704 705 709
+              <a href="tel:+254114461958" className="hover:text-white transition-colors font-medium">
+                0114 461 958
               </a>
             </li>
             <li>
               <span className="block text-xs text-gray-500 uppercase tracking-wide mb-0.5">WhatsApp</span>
               <a
-                href="https://wa.me/254704706709"
+                href="https://wa.me/254114461958"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-[#25D366] transition-colors font-medium"
               >
-                0704 706 709
+                0114 461 958
               </a>
             </li>
             <li>

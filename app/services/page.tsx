@@ -16,8 +16,8 @@ export default function ServicesPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-2xl md:text-3xl font-bold text-white">Emergency? We&apos;re Here.</h2>
           <p className="mt-3 text-red-100 max-w-xl mx-auto">Emergency services available 24 hours. Walk in or call us immediately.</p>
-          <a href="tel:0704705709" className="mt-6 inline-flex items-center gap-2 bg-white text-[#DC2626] font-bold rounded-full px-7 py-3 hover:bg-red-50 transition-colors shadow">
-            Call 0704 705 709
+          <a href="tel:+254114461958" className="mt-6 inline-flex items-center gap-2 bg-white text-[#DC2626] font-bold rounded-full px-7 py-3 hover:bg-red-50 transition-colors shadow">
+            Call 0114 461 958
           </a>
         </div>
       </section>
